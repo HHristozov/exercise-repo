@@ -1,5 +1,10 @@
 Some sample text
+<<<<<<< HEAD
 Update wtih Tortoise
 
 Some additional changes via Tortoise
 Some new like with more changes via Tortoise
+=======
+Updating with Bash
+Update wtih Tortoise
+>>>>>>> 80b7074320f52c264cc91401d2a62a9f7f73df61
